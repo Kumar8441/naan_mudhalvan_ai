@@ -1,4 +1,3 @@
 # naan_mudhalvan_ai
 
-project
-Predicting students final score using the previous exam scores
+Predicting students final exam score based on previous exam
